@@ -1,3 +1,6 @@
+机器学习成果视频
+https://www.youtube.com/watch?v=N3LfpJpRj1w
+
 ## Machine-learning-note
 
 ### week1
