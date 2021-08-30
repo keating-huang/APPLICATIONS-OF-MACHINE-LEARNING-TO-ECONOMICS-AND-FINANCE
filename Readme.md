@@ -1,5 +1,5 @@
-机器学习成果视频
-https://www.youtube.com/watch?v=N3LfpJpRj1w
+*机器学习成果
+https://github.com/wu-chunwei/ML_Course
 
 ## Machine-learning-note
 
